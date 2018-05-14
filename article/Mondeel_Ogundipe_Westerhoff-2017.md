@@ -19,23 +19,23 @@ Address:
 Contact:
   - d.g.a.mondeel@uva.nl (thierry.mondeel@gmail.com)
 Editor:
-  - Name Surname
+  - C. Titus Brown
 Reviewer:
-  - Name Surname
-  - Name Surname
+  - Aaron Shifman
+  - Federico Vaggi
 Publication:
-  received:  Sep, 1, 2015
-  accepted:  Sep, 1, 2015
-  published: Sep, 1, 2015
-  volume:    "**1**"
+  received:  Oct 26, 2017
+  accepted:  Mar 25, 2018
+  published: May 13, 2018
+  volume:    "**4**"
   issue:     "**1**"
-  date:      Sep 2015
-  number: 1
+  date:      May 13 2015
+  number: 3
 Repository:
-  article:   "http://github.com/rescience/rescience-submission/article"
-  code:      "http://github.com/rescience/rescience-submission/code"
-  data:      
-  notebook:  
+  article:   "https://github.com/ReScience-Archives/Mondeel-Ogundipe-Westerhoff-2018/article"
+  code:      "https://github.com/ReScience-Archives/Mondeel-Ogundipe-Westerhoff-2018/code"
+  data:      "https://github.com/ReScience-Archives/Mondeel-Ogundipe-Westerhoff-2018/data"
+  notebook:  "https://github.com/ReScience-Archives/Mondeel-Ogundipe-Westerhoff-2018/notebook"
 Reproduction:
   - "T. Shlomi, M.N. Cabili, E. Ruppin, Predicting metabolic biomarkers of human inborn errors of metabolism, Mol. Syst. Biol. 5 (2009) 263. doi:10.1038/msb.2009.22."
 Bibliography:
