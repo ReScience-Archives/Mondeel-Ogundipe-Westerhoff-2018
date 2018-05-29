@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.8 $
+% $ biblatex bbl format version 2.9 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,7 +18,7 @@
 
 
 \refsection{0}
-  \sortlist[entry]{nty/global/}
+  \datalist[entry]{nty/global//global/global}
     \entry{Duarte2007}{article}{}
       \name{author}{8}{}{%
         {{hash=fa9e924a006f70e44802162f297dbfce}{%
@@ -64,10 +64,12 @@
       }
       \strng{namehash}{a96934f634635401395bd3bd348fdfd6}
       \strng{fullhash}{9f37f7a86baa0714edcf77e32d1582ea}
+      \strng{bibnamehash}{a96934f634635401395bd3bd348fdfd6}
+      \strng{authorbibnamehash}{a96934f634635401395bd3bd348fdfd6}
       \strng{authornamehash}{a96934f634635401395bd3bd348fdfd6}
       \strng{authorfullhash}{9f37f7a86baa0714edcf77e32d1582ea}
       \field{sortinit}{D}
-      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Metabolism is a vital cellular process, and its malfunction is a major contributor to human disease. Metabolic networks are complex and highly interconnected, and thus systems-level computational approaches are required to elucidate and understand metabolic genotype-phenotype relationships. We have manually reconstructed the global human metabolic network based on Build 35 of the genome annotation and a comprehensive evaluation of {>}50 years of legacy data (i.e., bibliomic data). Herein we describe the reconstruction process and demonstrate how the resulting genome-scale (or global) network can be used (i) for the discovery of missing information, (ii) for the formulation of an in silico model, and (iii) as a structured context for analyzing high-throughput biological data sets. Our comprehensive evaluation of the literature revealed many gaps in the current understanding of human metabolism that require future experimental investigation. Mathematical analysis of network structure elucidated the implications of intracellular compartmentalization and the potential use of correlated reaction sets for alternative drug target identification. Integrated analysis of high-throughput data sets within the context of the reconstruction enabled a global assessment of functional metabolic states. These results highlight some of the applications enabled by the reconstructed human metabolic network. The establishment of this network represents an important step toward genome-scale human systems biology.}
@@ -117,10 +119,12 @@
       }
       \strng{namehash}{8c37dff68aee37fd2ad486d7b38b8c12}
       \strng{fullhash}{3afdad84e06d950ee244ccd8f6ed8e18}
+      \strng{bibnamehash}{8c37dff68aee37fd2ad486d7b38b8c12}
+      \strng{authorbibnamehash}{8c37dff68aee37fd2ad486d7b38b8c12}
       \strng{authornamehash}{8c37dff68aee37fd2ad486d7b38b8c12}
       \strng{authorfullhash}{3afdad84e06d950ee244ccd8f6ed8e18}
       \field{sortinit}{E}
-      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1752-0509}
@@ -154,10 +158,12 @@
       }
       \strng{namehash}{0d5a1103851745e875c84813988e807e}
       \strng{fullhash}{0d5a1103851745e875c84813988e807e}
+      \strng{bibnamehash}{0d5a1103851745e875c84813988e807e}
+      \strng{authorbibnamehash}{0d5a1103851745e875c84813988e807e}
       \strng{authornamehash}{0d5a1103851745e875c84813988e807e}
       \strng{authorfullhash}{0d5a1103851745e875c84813988e807e}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Genome-scale constraint-based models of several organisms have now been constructed and are being used for model driven research. A key issue that may arise in the use of such models is the existence of alternate optimal solutions wherein the same maximal objective (e.g., growth rate) can be achieved through different flux distributions. Herein, we investigate the effects that alternate optimal solutions may have on the predicted range of flux values calculated using currently practiced linear (LP) and quadratic programming (QP) methods. An efficient LP-based strategy is described to calculate the range of flux variability that can be present in order to achieve optimal as well as suboptimal objective states. Sample results are provided for growth predictions of E. coli using glucose, acetate, and lactate as carbon substrates. These results demonstrate the extent of flux variability to be highly dependent on environmental conditions and network composition. In addition we examined the impact of alternate optima for growth under gene knockout conditions as calculated using QP-based methods. It was observed that calculations using QP-based methods can show significant variation in growth rate if the flux variability among alternate optima is high. The underlying biological significance and general source of such flux variability is further investigated through the identification of redundancies in the network (equivalent reaction sets) that lead to alternate solutions. Collectively, these results illustrate the variability inherent in metabolic flux distributions and the possible implications of this heterogeneity for constraint-based modeling approaches. These methods also provide an efficient and robust method to calculate the range of flux distributions that can be derived from quantitative fermentation data. {©} 2003 Elsevier Inc. All rights reserved.}
@@ -185,10 +191,12 @@
       }
       \strng{namehash}{85d64fe48a3150bfd5278e6b4cb5f592}
       \strng{fullhash}{85d64fe48a3150bfd5278e6b4cb5f592}
+      \strng{bibnamehash}{85d64fe48a3150bfd5278e6b4cb5f592}
+      \strng{authorbibnamehash}{85d64fe48a3150bfd5278e6b4cb5f592}
       \strng{authornamehash}{85d64fe48a3150bfd5278e6b4cb5f592}
       \strng{authorfullhash}{85d64fe48a3150bfd5278e6b4cb5f592}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Last year marked the 40th anniversary of the publication of the first print edition of Mendelian Inheritance in Man (MIM). 1 This seems an appropriate juncture at which to review its origins, evolution, and present status, including and particularly those of its online version, OMIM (Online Mendelian Inheritance in Man). This is an opportunity, at the same time, to review in brief the rapid progress in an important part of medical genetics and genomics, as chronicled in MIM/OMIM over these 40 years, and to contemplate the future challenges of OMIM. Description of MIM/OMIM MIM 1 and 2 is a comprehensive knowledgebase of human genes and genetic disorders. It consists of full-text overviews of genes and genetic phenotypes, particularly disorders, and is useful to students, researchers, and clinicians. It was initiated in the early 1960s as a trilogy of catalogs of autosomal dominant, autosomal recessive, and X-linked phenotypes. It has been maintained as an electronic file since 1964 and has been published in 12 print editions fig. 1 the first in 1966, the most recent (in three volumes) in 1998. (Various editions of MIM were translated into Russian 1976, Spanish 1976, and Mandarin 1996; see fig. 2 In 1987, it became generally available on the Internet, under the designation OMIM, from the Welch Medical Library at Johns Hopkins University. Since December 1995, it has been distributed on the World Wide Web from the National Center for Biotechnology Information (NCBI) of the National Library of Medicine. This knowledgebase is updated daily. Authoring and editing are headquartered at Johns Hopkins University School of Medicine.}
@@ -245,10 +253,12 @@
       }
       \strng{namehash}{8409f74ef2f5006f6b9350a1693676b9}
       \strng{fullhash}{19ae7a0d4528193fb8afaf971023eca4}
+      \strng{bibnamehash}{8409f74ef2f5006f6b9350a1693676b9}
+      \strng{authorbibnamehash}{8409f74ef2f5006f6b9350a1693676b9}
       \strng{authornamehash}{8409f74ef2f5006f6b9350a1693676b9}
       \strng{authorfullhash}{19ae7a0d4528193fb8afaf971023eca4}
       \field{sortinit}{N}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{MOTIVATION The laws of thermodynamics describe a direct, quantitative relationship between metabolite concentrations and reaction directionality. Despite great efforts, thermodynamic data suffer from limited coverage, scattered accessibility and non-standard annotations. We present a framework for unifying thermodynamic data from multiple sources and demonstrate two new techniques for extrapolating the Gibbs energies of unmeasured reactions and conditions. RESULTS Both methods account for changes in cellular conditions (pH, ionic strength, etc.) by using linear regression over the $\Delta$G(○) of pseudoisomers and reactions. The Pseudoisomeric Reactant Contribution method systematically infers compound formation energies using measured K' and pK(a) data. The Pseudoisomeric Group Contribution method extends the group contribution method and achieves a high coverage of unmeasured reactions. We define a continuous index that predicts the reversibility of a reaction under a given physiological concentration range. In the characteristic physiological range 3$\mu$M-3mM, we find that roughly half of the reactions in Escherichia coli's metabolism are reversible. These new tools can increase the accuracy of thermodynamic-based models, especially in non-standard pH and ionic strengths. The reversibility index can help modelers decide which reactions are reversible in physiological conditions. AVAILABILITY Freely available on the web at: http://equilibrator.weizmann.ac.il. Website implemented in Python, MySQL, Apache and Django, with all major browsers supported. The framework is open-source (code.google.com/p/milo-lab), implemented in pure Python and tested mainly on Linux. CONTACT ron.milo@weizmann.ac.il SUPPLEMENTARY INFORMATION Supplementary data are available at Bioinformatics online.}
@@ -294,10 +304,12 @@
       }
       \strng{namehash}{967486c9d7d0ddbc6a75db79b103b581}
       \strng{fullhash}{ec4425f6a58f39efb7e459f2a64bd449}
+      \strng{bibnamehash}{967486c9d7d0ddbc6a75db79b103b581}
+      \strng{authorbibnamehash}{967486c9d7d0ddbc6a75db79b103b581}
       \strng{authornamehash}{967486c9d7d0ddbc6a75db79b103b581}
       \strng{authorfullhash}{ec4425f6a58f39efb7e459f2a64bd449}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1742-206X}
@@ -338,10 +350,12 @@
       }
       \strng{namehash}{bf2134e232856ed085aedb6c9f9e223f}
       \strng{fullhash}{bf2134e232856ed085aedb6c9f9e223f}
+      \strng{bibnamehash}{bf2134e232856ed085aedb6c9f9e223f}
+      \strng{authorbibnamehash}{bf2134e232856ed085aedb6c9f9e223f}
       \strng{authornamehash}{bf2134e232856ed085aedb6c9f9e223f}
       \strng{authorfullhash}{bf2134e232856ed085aedb6c9f9e223f}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Early diagnosis of inborn errors of metabolism is commonly performed through biofluid metabolomics, which detects specific metabolic biomarkers whose concentration is altered due to genomic mutations. The identification of new biomarkers is of major importance to biomedical research and is usually performed through data mining of metabolomic data. After the recent publication of the genome-scale network model of human metabolism, we present a novel computational approach for systematically predicting metabolic biomarkers in stochiometric metabolic models. Applying the method to predict biomarkers for disruptions of red-blood cell metabolism demonstrates a marked correlation with altered metabolic concentrations inferred through kinetic model simulations. Applying the method to the genome-scale human model reveals a set of 233 metabolites whose concentration is predicted to be either elevated or reduced as a result of 176 possible dysfunctional enzymes. The method's predictions are shown to significantly correlate with known disease biomarkers and to predict many novel potential biomarkers. Using this method to prioritize metabolite measurement experiments to identify new biomarkers can provide an order of a 10-fold increase in biomarker detection performance.}
@@ -398,10 +412,12 @@
       }
       \strng{namehash}{8d97ed156ae121ad484b1be646207f3e}
       \strng{fullhash}{4807fafa10d63ee7e9a65b2b69d52e74}
+      \strng{bibnamehash}{8d97ed156ae121ad484b1be646207f3e}
+      \strng{authorbibnamehash}{8d97ed156ae121ad484b1be646207f3e}
       \strng{authornamehash}{8d97ed156ae121ad484b1be646207f3e}
       \strng{authorfullhash}{4807fafa10d63ee7e9a65b2b69d52e74}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Recon 2.2: from reconstruction to model of human metabolism}}
@@ -475,8 +491,8 @@
            familyi={A\bibinitperiod},
            given={Rasmus},
            giveni={R\bibinitperiod}}}%
-        {{hash=3dbc56820d8f1676bfda8a86c074cec3}{%
-           family={Bölling},
+        {{hash=9f7d4b0074f5e8fcdffbf677ae420702}{%
+           family={B{ö}lling},
            familyi={B\bibinitperiod},
            given={Christian},
            giveni={C\bibinitperiod}}}%
@@ -550,8 +566,8 @@
            familyi={N\bibinitperiod},
            given={Intawat},
            giveni={I\bibinitperiod}}}%
-        {{hash=8bb1df681358f802290ac36f86677931}{%
-           family={{Le Novère}},
+        {{hash=e82039e7ff16098823238b2d276d35fa}{%
+           family={{Le Nov{è}re}},
            familyi={L\bibinitperiod},
            given={Nicolas},
            giveni={N\bibinitperiod}}}%
@@ -649,11 +665,13 @@
            giveni={B\bibinitperiod\bibinitdelim Ø\bibinitperiod}}}%
       }
       \strng{namehash}{76b0eb45280b7480d402ac1b7a0e78af}
-      \strng{fullhash}{6139b3ce36e7bdd65ca936c833171610}
+      \strng{fullhash}{8569491dc4d46cd7ddffe6a34cee74c6}
+      \strng{bibnamehash}{76b0eb45280b7480d402ac1b7a0e78af}
+      \strng{authorbibnamehash}{76b0eb45280b7480d402ac1b7a0e78af}
       \strng{authornamehash}{76b0eb45280b7480d402ac1b7a0e78af}
-      \strng{authorfullhash}{6139b3ce36e7bdd65ca936c833171610}
+      \strng{authorfullhash}{8569491dc4d46cd7ddffe6a34cee74c6}
       \field{sortinit}{T}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Multiple models of human metabolism have been reconstructed, but each represents only a subset of our knowledge. Here we describe Recon 2, a community-driven, consensus 'metabolic reconstruction', which is the most comprehensive representation of human metabolism that is applicable to computational modeling. Compared with its predecessors, the reconstruction has improved topological and functional features, including ∼2× more reactions and ∼1.7× more unique metabolites. Using Recon 2 we predicted changes in metabolite biomarkers for 49 inborn errors of metabolism with 77{\%} accuracy when compared to experimental data. Mapping metabolomic data and drug information onto Recon 2 demonstrates its potential for integrating and analyzing diverse data types. Using protein expression data, we automatically generated a compendium of 65 cell type-specific models, providing a basis for manual curation or investigation of cell-specific metabolic properties. Recon 2 will facilitate many future biomedical studies and is freely available at http://humanmetabolism.org/.}
@@ -673,7 +691,7 @@
       \verb :Users/thierry/Documents/Mendeley Desktop/Thiele et al.{\_}2013{\_}A community-driven global reconstruction of human metabolism.pdf:pdf
       \endverb
     \endentry
-  \endsortlist
+  \enddatalist
 \endrefsection
 \endinput
 
